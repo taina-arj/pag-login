@@ -4,9 +4,9 @@ function darkMode() {
   element.classList.toggle("fa-thumbs-down");
 }
 function goRegister() {
-  location.href = "registerpage.html";
+  location.href = "register.html";
 }
 
 function goLogin() {
-  location.href = "loginpage.html";
+  location.href = "login.html";
 }
