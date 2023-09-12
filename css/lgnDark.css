@@ -1,0 +1,65 @@
+.dark-mode {
+  background-color: rgb(56, 56, 56);
+}
+
+.dark-mode .left-side > h1 {
+  color: rgb(37, 75, 82);
+}
+
+.dark-mode .left-side > p {
+  color: rgb(221, 221, 221);
+}
+
+.dark-mode .full-area {
+  background-color: rgb(36, 36, 36);
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.575);
+  border-radius: 12px;
+}
+.dark-mode .card-lgn {
+  background-color: rgb(31, 76, 83);
+}
+
+.dark-mode .card-lgn > h1 {
+  color: rgb(190, 189, 207);
+}
+
+.dark-mode .card-lgn > button {
+  color: rgb(221, 221, 221);
+  background-color: rgb(112, 158, 74);
+}
+
+.dark-mode .card-lgn > button:hover {
+  background-color: rgb(138, 189, 97);
+}
+
+.card-lgn > button:active {
+  box-shadow: inset 3px 3px 8px rgba(0, 0, 0, 0.5);
+}
+
+.dark-mode .text-area > input {
+  background-color: rgb(176, 192, 187);
+  box-shadow: rgba(0, 0, 0, 0.3) 1.95px 1.95px 2.6px;
+}
+
+.dark-mode .checkbox-area {
+  color: rgb(221, 221, 221);
+}
+.dark-mode .checkbox-area > a {
+  color: rgb(221, 221, 221);
+}
+
+.dark-mode .dark-mode-btn {
+  color: rgb(221, 221, 221);
+  background-color: rgb(44, 43, 116);
+  box-shadow: 0px 1px 4px 0px rgba(0, 0, 0, 0.8),
+    0px 7px 11px -88px rgba(0, 0, 0, 0.6),
+    0px -3px 0px 0px rgba(0, 0, 0, 0.4) inset;
+}
+
+.dark-mode-btn:active {
+  box-shadow: inset 3px 3px 8px rgba(0, 0, 0, 0.4);
+}
+
+.dark-mode .dark-mode-btn:hover {
+  background-color: rgb(58, 56, 141);
+}
