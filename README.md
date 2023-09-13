@@ -2,21 +2,13 @@
 
 ## Descrição
 
-Meu primeiro projeto web.
+Meu primeiro projeto web. Uma página de login e outra de cadastro(uma pode ser acessada através da outra), ambas possuem a opção de ativar o dark theme.
 
-## Capturas de Tela
+## Imagem
 
-![Captura de Tela 1](imgs/taina-arj.github.io_pedra-papel-tesoura_.png)
-
+![Captura de Tela 1](imgs/index.html.png)
+![Captura de Tela 2](imgs/register.html.png)
 
 ## Ferramentas Utilizadas
 
 - **HTML/CSS/JavaScript**
-
-
-Este projeto está licenciado sob a [Nome da Licença] - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-
-## Agradecimentos
-
-- [Liste quaisquer colaboradores ou recursos que você deseja reconhecer].
-- [Mencione quaisquer tutoriais ou projetos de código aberto que você usou ou se inspirou].
