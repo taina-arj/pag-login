@@ -8,5 +8,5 @@ function goRegister() {
 }
 
 function goLogin() {
-  location.href = "login.html";
+  location.href = "index.html";
 }
